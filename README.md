@@ -6,7 +6,7 @@ Welcome to the local community of the Carpentries in the Middle East and North A
 
 ### Communication with local community: 
 - Slack channel: https://swcarpentry.slack.com,  #local-middle-east-and-north-africa
-- TopicBox: local-middle-east https://carpentries.topicbox.com/groups/local-middle-east
+- TopicBox: local-Middle-East-and-north-africa https://carpentries.topicbox.com/groups/local-middle-east
 
 ### Meetings
 - The notes for the Community call on 5-4-2021 [in pdf](community-calls/ocal-middle-east.pdf) and [the etherpad](https://pad.carpentries.org/local-middle-east).
