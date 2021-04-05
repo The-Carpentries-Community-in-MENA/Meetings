@@ -2,7 +2,7 @@
   <img src="imgs/logo-01-01-01.jpg" width= 30%>
 </p>
 
-Welcome to The local community of the Carpentries in the Middle East and North Africa (MENA) repo. Here are stored all the meeting notes and documents from the local community of Carpentries in MENA.
+Welcome to the local community of the Carpentries in the Middle East and North Africa (MENA) repo. Here are stored all the meeting notes and documents from the local community of Carpentries in MENA.
 
 ### Communication with local community: 
 - Slack channel: https://swcarpentry.slack.com,  #local-middle-east-and-north-africa
